@@ -1,0 +1,9 @@
+#tinyauth__main{ width: 336px; float: left; left: -15px; padding: 20px 0 0; position: relative; }
+#tinyauth__header{ background: #417690; overflow: hidden; }
+#tinyauth__header h1{ padding: 0 10px; font-size: 18px; margin: 8px 0; font-weight: normal; color: #f4f379; }
+#tinyauth__content { padding: 10px 10px 0; }
+#tinyauth__content ul, #tinyauth__content li{ list-style: none; margin: 0; padding: 0; }
+#tinyauth__content li{ width: 20%; float: left; text-align: center; padding: 10px 0; }
+#tinyauth__content a{}
+
+

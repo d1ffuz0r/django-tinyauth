@@ -13,5 +13,5 @@ setup(
     author_email='d1fffuz0r@gmail.com',
     description='faster login to django admin interface',
     zip_safe=False,
-    include_package_data=True,
+    include_package_data=True
 )
